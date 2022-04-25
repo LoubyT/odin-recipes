@@ -1,1 +1,1 @@
-Hello, this is the first project in The Odin Project. I will be demonstrating my skills with HTML. The skills I needed to complete this project were:
+Hello, this is the first project in The Odin Project. I will be demonstrating my skills with HTML. The skills I needed to complete this project were: proper usage of most common HTML commands such as creating a boilerplate, links, pictures, lists, and more. I had to use my knowledge of git to push my changes all the way to GitHub.
